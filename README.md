@@ -8,11 +8,12 @@ dispicker4级联动（国家、省、市、区）
 在使用该JS文件前，请先引用jquery。
 
 简单的使用例子：
-<div data-toggle="distpicker" data-placeholder="3">
-    <select></select>
-    <select></select>
-    <select></select>
-    <select></select>
+```html
+<div data-toggle="distpicker">
+  <select></select>
+  <select></select>
+  <select></select>
 </div>
+```
 
 更多示例参考：https://github.com/fengyuanchen/distpicker
